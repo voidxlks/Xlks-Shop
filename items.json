@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Starter Item",
+      "price": 5.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "A basic starter product."
+    },
+    {
+      "id": 2,
+      "name": "Cool Product",
+      "price": 10.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "A popular mid-tier item."
+    },
+    {
+      "id": 3,
+      "name": "Premium Item",
+      "price": 20.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "Top-tier premium product."
+    },
+    {
+      "id": 4,
+      "name": "XLKS Hoodie",
+      "price": 35.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "Comfortable and stylish hoodie."
+    },
+    {
+      "id": 5,
+      "name": "XLKS T-Shirt",
+      "price": 15.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "Simple branded t-shirt."
+    },
+    {
+      "id": 6,
+      "name": "Gaming Mouse",
+      "price": 25.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "High precision gaming mouse."
+    },
+    {
+      "id": 7,
+      "name": "Mechanical Keyboard",
+      "price": 60.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "RGB mechanical keyboard."
+    },
+    {
+      "id": 8,
+      "name": "Headset",
+      "price": 40.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "Clear audio gaming headset."
+    },
+    {
+      "id": 9,
+      "name": "Sticker Pack",
+      "price": 3.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "Cool XLKS stickers."
+    },
+    {
+      "id": 10,
+      "name": "Mystery Box",
+      "price": 12.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "Random surprise item."
+    },
+    {
+      "id": 11,
+      "name": "Pro Bundle",
+      "price": 100.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "Bundle of top products."
+    },
+    {
+      "id": 12,
+      "name": "Limited Edition Item",
+      "price": 75.00,
+      "image": "https://via.placeholder.com/200",
+      "description": "Rare limited drop."
+    }
+  ]
+}
